@@ -1,0 +1,10 @@
+{
+  "name": "Ellio -- NFT #: 2",
+  "description": "This is an NFT that lets people play in the game Metaverse Slayer!",
+  "image": "https://impostors-genesis.mypinata.cloud/ipfs/QmWz3XTv2zdq8Pz5reEKgMMNPs5kQ8TJXUpJhb2B67aSgD/2.png",
+  "animation_url": "https://impostors-genesis.mypinata.cloud/ipfs/QmVwt573fJJ988XbtPUqyf8JetWoXusJBRzfhcwoQdvQgB",
+  "attributes": [
+    { "trait_type": "Health Points", "value": 300, "max_value": 300 },
+    { "trait_type": "Attack Damage", "value": 25 }
+  ]
+}
